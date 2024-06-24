@@ -1,0 +1,24 @@
+.side_anchor{
+    -fx-background-color: #222D31;
+    -fx-border-color: #D3D3D3;
+    -fx-border-width: 0px 4px 0px 0px;
+}
+.inner_pane{
+    -fx-background-color: #748CF1;
+    -fx-border-color: #748CF1;
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-style: solid;
+}
+.inner_pane_2{
+    -fx-background-color: #6780E2;
+    -fx-border-color: #F4F6FA;
+    -fx-border-width: 2px 2px 4px 2px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-style: solid;
+}
+.class_table{
+    -fx-background-color: #6780E2;
+}
